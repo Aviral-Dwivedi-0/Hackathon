@@ -50,7 +50,7 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/Aviral-Dwivedi-0/IntelliZEN.git
-cd Hackathon
+cd IntelliZEN
 ```
 
 ### Backend Setup
