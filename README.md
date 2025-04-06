@@ -1,4 +1,4 @@
-# IntelliZen
+# IntelliZEN
 
 IntelliZen is an AI-powered code assistant that helps developers write better code faster. It combines the power of machine learning with intuitive user interface to provide real-time coding suggestions and improvements.
 
@@ -193,6 +193,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Authors
 
 - Aviral Dwivedi - [GitHub](https://github.com/Aviral-Dwivedi-0)
+- Siddhant Jaiswal -[GitHub](https://github.com/sddhantjaiii)
+- Khushi Agarwal- [GitHub](https://github.com/agkhushi)
+- Priyanka Katoch- [GitHub](https://github.com/priyankakatoch)
+- Kartikey Karnwal- [GitHub](https://github.com/KartikeyKarnwal)
 
 ## 🙏 Acknowledgments
 
