@@ -49,7 +49,7 @@ Before you begin, ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Aviral-Dwivedi-0/Hackathon.git
+git clone https://github.com/Aviral-Dwivedi-0/IntelliZEN.git
 cd Hackathon
 ```
 
