@@ -1,4 +1,5 @@
-# IntelliZEN
+# IntelliZEN  [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://ai-benchmark-frontend-1030334691721.us-central1.run.app/)
+
 
 IntelliZen is an AI-powered code assistant that helps developers write better code faster. It combines the power of machine learning with intuitive user interface to provide real-time coding suggestions and improvements.
 
